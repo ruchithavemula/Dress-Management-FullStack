@@ -40,3 +40,6 @@
 2025-09-06 23:00:22,119 [Worker-41: Launching dress-backend - DressBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-09-06 23:00:22,127 [Worker-41: Launching dress-backend - DressBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-09-06 23:00:22,130 [Worker-41: Launching dress-backend - DressBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dress\backend\dress-backend\src\test\resources
+2025-09-06 23:09:17,199 [Worker-21: Launching dress-backend - DressBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-06 23:09:17,211 [Worker-21: Launching dress-backend - DressBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-06 23:09:17,217 [Worker-21: Launching dress-backend - DressBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dress\backend\dress-backend\src\test\resources
